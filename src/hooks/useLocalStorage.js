@@ -1,6 +1,6 @@
-import React, {useEffect, useState} from 'react'
+import{useEffect, useState} from 'react'
 
-const prefix='codepen-clone'
+const prefix=process.env.REACT_APP_PREFIX
 function useLocalStorage(k, initial) {
     const prefixKey= prefix+k;
 
