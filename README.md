@@ -2,6 +2,11 @@
 
 A simplified CodePen clone created using React.js, allowing users to practice and experiment with HTML, CSS, and JavaScript code.
 
+Project is live at : https://ajay-code-editor.vercel.app/
+
+## ScreenShot
+
+
 ## Features
 
 - Real-time code editing with live preview.
